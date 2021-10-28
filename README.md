@@ -1,7 +1,7 @@
-### Hi, I'm Ulug'bek 👋
+### Hi, I'm Azizbek 👋
 
 
-- **🔥 Currently I'm learning golang and java**
+- **🔥 Currently I'm learning Python and Django**
 
 #### **Languages**
 
